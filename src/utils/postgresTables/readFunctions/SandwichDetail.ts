@@ -1,4 +1,4 @@
-import { TransactionDetail } from '../../Interfaces.js';
+import type { TransactionDetail } from '../../Interfaces.js';
 
 export interface UserLossDetail {
     unit: string;
